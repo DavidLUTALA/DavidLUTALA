@@ -38,7 +38,7 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 
 ---
 
-## 👨‍💻 Projets Phare :
+## 👨‍💻 Projets Phares :
 ### 1️⃣ **Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole** 🔝  
 Ce projet propose un modèle de reconnaissance des émotions à partir de la parole.  
 **Technologies utilisées** : PyTorch, Librosa, scikit-learn, GridSearchCV, etc.  
