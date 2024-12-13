@@ -21,7 +21,7 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 ---
 
 ## 🛠️ Compétences Techniques :
-### 👩‍💻 Langages & Frameworks
+### 👨‍💻 Langages & Frameworks
 - **Python**, **C++**, **JavaScript**
 - **TensorFlow**, **PyTorch**, **Keras**
 - **OpenCV**, **Scikit-learn**, **Pandas**, **NumPy**
