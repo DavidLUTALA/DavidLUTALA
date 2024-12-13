@@ -11,7 +11,7 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 ---
 
 ## 🌟 À propos de moi :
-- 🎓 Étudiant en master en **Systèmes Intelligents et Multimédias**.
+- 🎓 Étudiant en master en **Systèmes Intelligents et Multimédias** en double diplomation à l'**Université National du Vietnam**, **Hanoi** et l'**Université de la Rochelle**, **France**.
 - 📚 Je développe des projets pratiques pour approfondir mes compétences en :
   - Réseaux de neurones profonds (CNN, RNN, etc.)
   - Vision par ordinateur (détection et segmentation d'objets, OCR, etc.)
