@@ -70,6 +70,6 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 ---
 
 ## 📫 Contactez-moi :
-- 🌐 [LinkedIn](https://www.linkedin.com/in/david-lutala-719952164/)  
+- 🌐 [Profil LinkedIn](https://www.linkedin.com/in/david-lutala-719952164/)  
 - 📧 Email : [davidlutala0@gmail.com](mailto:davidlutala0@gmail.com)  
-- 🌟 Toujours ouvert à discuter de collaborations ou d'opportunités intéressantes 👯!
+- 🌟 Toujours ouvert à discuter de collaborations ou d'opportunités de recherches 👯!
