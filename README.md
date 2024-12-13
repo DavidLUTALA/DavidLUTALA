@@ -21,9 +21,8 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 ---
 
 ## 🛠️ Compétences Techniques :
-### 🌐 Langages & Frameworks
-- **Python**, ![icons8_c++_48px](https://github.com/user-attachments/assets/39da8dc5-019d-4255-99e2-77438af9233f)
-**C++**, **JavaScript**
+### 👩‍💻 Langages & Frameworks
+- **Python**, **C++**, **JavaScript**
 - **TensorFlow**, **PyTorch**, **Keras**
 - **OpenCV**, **Scikit-learn**, **Pandas**, **NumPy**
 
@@ -40,17 +39,17 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 ---
 
 ## 👨‍💻 Projets Phare :
-### 1️⃣ **Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole**  
+### 1️⃣ **Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole** 🔝  
 Ce projet propose un modèle de reconnaissance des émotions à partir de la parole.  
 **Technologies utilisées** : PyTorch, Librosa, scikit-learn, GridSearchCV, etc.  
 ➡️ [Voir le projet](https://github.com/DavidLUTALA/Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole)
 
-### 2️⃣ **Systeme-de-Reconnaissance-des-chiffres-manuscrits**  
+### 2️⃣ **Systeme-de-Reconnaissance-des-chiffres-manuscrits** 🔝  
 Création d'un pipeline complet pour la reconnaissance de chiffres manuscrits à l'aide d'un réseau neuronal convolutionnel (CNN) formé sur l'ensemble de données MNIST.  
 **Technologies utilisées** : TensorFlow, Keras, NumPy, Matplotlib, etc.  
 ➡️ [Voir le projet](https://github.com/DavidLUTALA/Systeme-de-Reconnaissance-des-chiffres-manuscrits)
 
-### 3️⃣ **Systeme-de-verification-et-de-validation-des-diplomesSysteme-de-verification-et-de-validation-des-diplomes**  
+### 3️⃣ **Systeme-de-verification-et-de-validation-des-diplomesSysteme-de-verification-et-de-validation-des-diplomes** 🔝  
 Ce projet met en œuvre un système basé sur la blockchain pour valider et authentifier les diplômes universitaires.  
 **Technologies utilisées** : Solidity, Ganache, IPFS, etc.  
 ➡️ [Voir le projet](https://github.com/DavidLUTALA/Systeme-de-verification-et-de-validation-des-diplomes)
@@ -72,5 +71,5 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 
 ## 📫 Contactez-moi :
 - 🌐 [LinkedIn](https://www.linkedin.com/in/david-lutala-719952164/)  
-- 📧 Email : [davidlutala0@gmail.com](mailto:davidlutala0@gmail.com)  
+- 📧 Email : <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />[davidlutala0@gmail.com](mailto:davidlutala0@gmail.com)  
 - 🌟 Toujours ouvert à discuter de collaborations ou d'opportunités intéressantes 👯!
