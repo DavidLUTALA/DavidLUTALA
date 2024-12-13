@@ -22,7 +22,8 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 
 ## 🛠️ Compétences Techniques :
 ### 🌐 Langages & Frameworks
-- **Python**, **C++**, **JavaScript**
+- **Python**, ![icons8_c++_48px](https://github.com/user-attachments/assets/39da8dc5-019d-4255-99e2-77438af9233f)
+**C++**, **JavaScript**
 - **TensorFlow**, **PyTorch**, **Keras**
 - **OpenCV**, **Scikit-learn**, **Pandas**, **NumPy**
 
@@ -38,7 +39,7 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 
 ---
 
-## 🔥 Projets Phare :
+## 👨‍💻 Projets Phare :
 ### 1️⃣ **Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole**  
 Ce projet propose un modèle de reconnaissance des émotions à partir de la parole.  
 **Technologies utilisées** : PyTorch, Librosa, scikit-learn, GridSearchCV, etc.  
@@ -62,7 +63,7 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 
 ---
 
-## 🚀 Objectifs à venir :
+## 🔭 Objectifs à venir :
 - Approfondir mes compétences en **IA générative** et **modèles de diffusion**.
 - Explorer l'intégration de la blockchain avec les applications d'IA.
 - Contribuer à des projets open-source liés à mes domaines d'expertise.
@@ -72,4 +73,4 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 ## 📫 Contactez-moi :
 - 🌐 [LinkedIn](https://www.linkedin.com/in/david-lutala-719952164/)  
 - 📧 Email : [davidlutala0@gmail.com](mailto:davidlutala0@gmail.com)  
-- 🌟 Toujours ouvert à discuter de collaborations ou d'opportunités intéressantes !
+- 🌟 Toujours ouvert à discuter de collaborations ou d'opportunités intéressantes 👯!
