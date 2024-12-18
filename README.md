@@ -4,7 +4,8 @@ Je suis **David Lutala**, actuellement chercheur en **Systèmes Intelligents et 
 
 - 🤖 **Machine Learning** & **Deep Learning**  
 - 👁️ **Computer Vision**  
-- 🔗 **Blockchain**  
+- 🔗 **Blockchain**
+- 🔒 **Réseau et Sécurité Informatique** 
 
 Mon objectif est de résoudre des problèmes complexes en combinant **l'intelligence artificielle** et des technologies innovantes. 🚀
 
@@ -16,6 +17,7 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
   - Réseaux de neurones profonds (CNN, RNN, etc.)
   - Vision par ordinateur (détection et segmentation d'objets, OCR, etc.)
   - Systèmes décentralisés basés sur la blockchain.
+  - Réseau et Sécurité informatique
 - 💡 Toujours curieux d'explorer les intersections entre **IA** et **d'autres domaines**.
 
 ---
