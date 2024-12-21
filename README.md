@@ -23,38 +23,20 @@ Mon objectif est de résoudre des problèmes complexes en combinant **l'intellig
 ---
 
 ## 🛠️ Compétences Techniques :
-### 👨‍💻 Langages & Frameworks
+### 👨‍💻 Langages & Frameworks🔝
 - **Python**, **C++**, **JavaScript**
 - **TensorFlow**, **PyTorch**, **Keras**
 - **OpenCV**, **Scikit-learn**, **Pandas**, **NumPy**
 
-### 🔗 Blockchain
+### 🔗 Blockchain🔝
 - Développement de **smart contracts** avec **Solidity**
 - Frameworks : **Hardhat**, **Truffle**, **Ganache**
 - Plateforme Blockchain : **Ethereum**, **Hyperledger Fabric**, **Corda**
   
-### 📊 Outils et autres compétences
+### 📊 Outils et autres compétences🔝
 - **Git/GitHub** pour la gestion de versions.
 - Visualisation de données avec **Matplotlib**, **Seaborn**.
 - **Docker** pour la conteneurisation des projets.
-
----
-
-## 👨‍💻 Projets Phares :
-### 1️⃣ **Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole** 🔝  
-Ce projet propose un modèle de reconnaissance des émotions à partir de la parole.  
-**Technologies utilisées** : PyTorch, Librosa, scikit-learn, GridSearchCV, etc.  
-➡️ [Voir le projet](https://github.com/DavidLUTALA/Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole)
-
-### 2️⃣ **Systeme-de-Reconnaissance-des-chiffres-manuscrits** 🔝  
-Création d'un pipeline complet pour la reconnaissance de chiffres manuscrits à l'aide d'un réseau neuronal convolutionnel (CNN) formé sur l'ensemble de données MNIST.  
-**Technologies utilisées** : TensorFlow, Keras, NumPy, Matplotlib, etc.  
-➡️ [Voir le projet](https://github.com/DavidLUTALA/Systeme-de-Reconnaissance-des-chiffres-manuscrits)
-
-### 3️⃣ **Systeme-de-verification-et-de-validation-des-diplomesSysteme-de-verification-et-de-validation-des-diplomes** 🔝  
-Ce projet met en œuvre un système basé sur la blockchain pour valider et authentifier les diplômes universitaires.  
-**Technologies utilisées** : Solidity, Ganache, IPFS, etc.  
-➡️ [Voir le projet](https://github.com/DavidLUTALA/Systeme-de-verification-et-de-validation-des-diplomes)
 
 ---
 
